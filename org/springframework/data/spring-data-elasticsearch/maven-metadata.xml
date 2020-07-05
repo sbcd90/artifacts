@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.springframework.data</groupId>
+  <artifactId>spring-data-elasticsearch</artifactId>
+  <versioning>
+    <versions>
+      <version>4.1.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20200705185809</lastUpdated>
+  </versioning>
+</metadata>
